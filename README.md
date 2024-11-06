@@ -5,4 +5,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cpramshad&theme=dark&hide_border=false)<br/>
 
 
-[![@cpramshad's Holopin board](https://holopin.io/api/user/board?user=cpramshad)](https://holopin.io/@cpramshad)
+<!-- [![@cpramshad's Holopin board](https://holopin.io/api/user/board?user=cpramshad)](https://holopin.io/@cpramshad) -->
